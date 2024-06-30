@@ -4,7 +4,7 @@ This project is a simple handwritten digit classifier using PyTorch and the MNIS
 
 ## Purpose
 
-The purpose of this project is to demonstrate the process of building, training, and evaluating a neural network for digit classification. This project was created as part of my 11th-grade coursework to showcase my understanding of machine learning and neural networks.
+The purpose of this project is to demonstrate the process of building, training, and evaluating a neural network for digit classification. This project was created as part of my machine learning coursework to showcase my understanding of machine learning and neural networks.
 
 ## How It Works
 
